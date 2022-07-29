@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Climate change: 'Madness' to turn to fossil fuels because of Ukraine war",
+      "description": "UN Secretary General says climate goals are in danger if countries turn to coal because of Ukraine.",
+      "url": "http://www.bbc.co.uk/news/science-environment-60815547",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8973/production/_123778153_gettyimages-1236578931.jpg",
+      "publishedAt": "2022-03-21T14:07:27.9480672Z",
+      "content": "By Matt McGrathEnvironment correspondent\r\nImage source, Getty Images\r\nThe UN Secretary General says the rush to use fossil fuels because of the war in Ukraine is \"madness\" and threatens global climat… [+3696 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Covid trapped me at home for more than seven months",
+      "description": "But a vaccine - the first time one has been used to treat Covid - set Ian Lester free.",
+      "url": "http://www.bbc.co.uk/news/health-60621432",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1593D/production/_123518388_ian2.jpg",
+      "publishedAt": "2022-03-21T14:07:20.9033022Z",
+      "content": "By James GallagherHealth and science correspondent\r\nImage caption, Ian Lester kept testing positive and was unable to leave his home\r\nA vaccine has been used to free a man who was trapped at home by … [+4693 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Nazanin Zaghari-Ratcliffe: I should have been freed six years ago",
+      "description": "The British-Iranian was speaking publicly for the first time since her release from Iran last week",
+      "url": "http://www.bbc.co.uk/news/uk-60819018",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/876C/production/_123786643_index_2_conference_nazanin_zaghari_ratcliffe_pa.jpg",
+      "publishedAt": "2022-03-21T13:52:24.4113564Z",
+      "content": "Media caption, WATCH: Nazanin Zaghari-Ratcliffe says she's missed holding her seven-year-old daughter\r\nNazanin Zaghari-Ratcliffe has said it should never have taken the government so long to secure h… [+2452 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Not smart but clever? The return of 'dumbphones'",
+      "description": "Why sales of very basic mobile phones, without apps and internet connection, are increasing.",
+      "url": "http://www.bbc.co.uk/news/business-60763168",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F393/production/_123755326_gettyimages-645863306.jpg",
+      "publishedAt": "2022-03-21T12:37:18.7142433Z",
+      "content": "By Suzanne BearneBusiness reporter\r\nImage source, Getty Images\r\nImage caption, The Nokia 3310 phone is one of the best-selling handsets of all time, selling 126 million units\r\nSeventeen-year-old Robi… [+7077 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Kyiv shopping centre hit by Russian missile",
+      "description": "Authorities say at least six people were killed when the Podilskyi district of Kyiv was struck.",
+      "url": "http://www.bbc.co.uk/news/world-europe-60819030",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B16A/production/_123781454_p0bwlttc.jpg",
+      "publishedAt": "2022-03-21T12:22:22.1365242Z",
+      "content": "Video released by Ukraine's State Emergency Service captured the moment when a shopping centre in Kyiv was hit by a Russian missile.\r\nAuthorities say at least six people were killed when the Podilsky… [+106 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "The hunt for Nigerians who can change into cats",
+      "description": "One man is challenging Nigerians' belief in magic after a wave of killings that has gripped the country.",
+      "url": "http://www.bbc.co.uk/news/world-africa-60749496",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C748/production/_123761015_gbengaadewoyin.jpg",
+      "publishedAt": "2022-03-21T12:07:23.5262776Z",
+      "content": "By Nduka OrjinmoBBC News, Ibadan\r\nImage caption, Onlookers gathered, then quickly dispersed when they heard Gbenga Adewoyin in the market\r\nArmed with a sharp knife, a megaphone and dressed all in bla… [+6866 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Royal Mint wants to turn your old phone into gold",
+      "description": "The Royal Mint has found a way to turn old circuit boards from phones, computers and TVs into gold.",
+      "url": "http://www.bbc.co.uk/news/uk-60796417",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14FE1/production/_123758958_p0bw7ljj.jpg",
+      "publishedAt": "2022-03-21T10:52:27.4718265Z",
+      "content": "Every year we throw away millions of tons of electronic waste old computers, mobile phones, televisions. All of them have circuit boards in them.\r\nNow the Royal Mint has found a way to turn them into… [+190 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "China Eastern plane carrying 133 people crashes in Guangxi, says state media",
+      "description": "Flight MU5735 was en route from Kunming to Guangzhou when it crashed in Guangxi, state media report.",
+      "url": "http://www.bbc.co.uk/news/world-asia-china-60819760",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/519A/production/_98409802_breaking_news_bigger.png",
+      "publishedAt": "2022-03-21T08:52:19.6051981Z",
+      "content": "A China Eastern Airlines plane carrying 133 people on board has crashed in Guangxi province, Chinese state media is reporting.\r\nThe number of casualties is not yet known. \r\nThe crash of the Boeing 73… [+531 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "William and Kate dance and taste chocolate during day two of Belize tour",
+      "description": "\"They were shaking their waists like nobody's business,\" said a local woman who danced with the duke.",
+      "url": "http://www.bbc.co.uk/news/uk-60814541",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6FB5/production/_123779582_hi074767222.jpg",
+      "publishedAt": "2022-03-21T06:37:22.2295101Z",
+      "content": "By Mary O'ConnorBBC News\r\nMedia caption, Watch: The Duke and Duchess of Cambridge show off their dance moves in Belize\r\nThe Duke and Duchess of Cambridge have been dancing with locals and sampling ch… [+4711 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Mariupol: Ukraine rejects Russian offer to surrender port city",
+      "description": "Russia issued an ultimatum offering to open humanitarian corridors in exchange for the surrender of the city.",
+      "url": "http://www.bbc.co.uk/news/world-europe-60816885",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3C89/production/_123779451_gettyimages-1239355989.jpg",
+      "publishedAt": "2022-03-21T01:52:22.6841398Z",
+      "content": "Image caption, Shelling by Russian forces has prevented civilians from being able to evacuate the besieged port city\r\nUkraine has rejected a Russian ultimatum offering people in the besieged city of … [+4391 chars]"
+    }
+  ]
+}
